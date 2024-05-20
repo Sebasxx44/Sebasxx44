@@ -14,15 +14,23 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> ![kek-angry](https://github.com/Sebasxx44/Sebasxx44/assets/78497558/64a8d013-80f9-4df3-aad3-c11d8d513181) </picture>
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>A passionate Self-taught Front-end And Back-end developer</li>
+        <li>Currently learning Web Development</li>
+        <li>I’m currently open for an Intern or a new job opportunity, this is <a href="https://sebaz.vercel.app/">my resume</a></li>
+      </ul>
+    </td>
+    <td>
+      <picture>
+        <img src="https://github.com/Sebasxx44/Sebasxx44/assets/78497558/64a8d013-80f9-4df3-aad3-c11d8d513181" alt="kek-angry" />
+      </picture>
+    </td>
+  </tr>
+</table>
 
-<br>
-
-- A passionate Self-taught Front-end And Back-end developer
-- Currently learning Web Development
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://sebaz.vercel.app/)
-
-<br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
