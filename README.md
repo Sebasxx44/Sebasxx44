@@ -1,6 +1,6 @@
 
   <div align=center>
-        <img src="https://i.gifer.com/299x.gif" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+        <img src="https://github.com/Sebasxx44/Sebasxx44/assets/78497558/fde9b3a5-03c7-46c9-a74a-356a0ed3e4c4" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
     </div>
     <div align=center>
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Software+Developer;Web+Designer;Web+Developer" alt="Typing SVG" /></a>
