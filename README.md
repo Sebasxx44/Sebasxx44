@@ -18,8 +18,9 @@
   <tr>
     <td>
       <ul>
-        <li>A passionate Self-taught Front-end And Back-end developer</li>
-        <li>Currently learning Web Development</li>
+        <li>💡 &nbsp;A passionate Self-taught Front-end And Back-end developer</li>
+        <li>👨‍💻 &nbsp;Currently learning Web Development</li>
+        <li>✉️ &nbsp;You can shoot me an email at sanchezz3s47@gmail.com</li>
         <li>I’m currently open for an Intern or a new job opportunity, this is <a href="https://sebaz.vercel.app/">my resume</a></li>
       </ul>
     </td>
