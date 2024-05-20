@@ -9,6 +9,8 @@
         <a href="https://www.linkedin.com/in/sebas-sanchez-03446629a/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
         <a href="https://www.instagram.com/_sebazs/"><img src="https://img.shields.io/badge/Instagram-494949?style=flat&logo=instagram" alt="Instagram" /></a>
     </div>
+
+## <b>Welcome to my GitHub repository! I'm Sebastian Sanchez, a passionate developer. Explore my projects and let's dive into coding together!...✨</b>
 <br>
 
 
@@ -49,17 +51,4 @@
   </a>
 </p>
 
-<div align='center'>
-
-## <b>Welcome to my GitHub repository! I'm Sebastian Sanchez, a passionate developer. Explore my projects and let's dive into coding together!...✨</b>
-
-</div>
-<br>
-<br>
-<br>
-<br>
-
----
-
-<br>
 
