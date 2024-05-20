@@ -10,11 +10,11 @@
         <a href="https://www.instagram.com/_sebazs/"><img src="https://img.shields.io/badge/Instagram-494949?style=flat&logo=instagram" alt="Instagram" /></a>
     </div>
 
-<br>
+
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://tenor.com/583p.gif" width = 250px></picture>
+<picture> ![kek-angry](https://github.com/Sebasxx44/Sebasxx44/assets/78497558/64a8d013-80f9-4df3-aad3-c11d8d513181) </picture>
 
 <br>
 
