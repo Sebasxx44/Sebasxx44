@@ -10,7 +10,6 @@
         <a href="https://www.instagram.com/_sebazs/"><img src="https://img.shields.io/badge/Instagram-494949?style=flat&logo=instagram" alt="Instagram" /></a>
     </div>
 
-## <b>Welcome to my GitHub repository! I'm Sebastian Sanchez, a passionate developer. Explore my projects and let's dive into coding together!...✨</b>
 <br>
 
 
