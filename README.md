@@ -34,19 +34,11 @@
     
 - **Skills**:
 
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-   ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-  
-   ![Typescript](https://img.shields.io/badge/Typescript-000?style=for-the-badge&logo=typescript)
-   ![Php](https://img.shields.io/badge/php-000?style=for-the-badge&logo=php)
-   ![Laravel](https://img.shields.io/badge/laravel-000?style=for-the-badge&logo=laravel)
-   ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-   ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-   ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-   ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-   ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+  <p align="center">
+  <a href="https://skillicons.dev">
+	  <img src="https://skillicons.dev/icons?			i=git,css,docker,postgres,prisma,express,figma,firebase,github,html,js,php,laravel,linux,md,materialui,mysql,nextjs,nodejs,postman,react,tailwind,ts,vscode,kubernetes&perline=14" />
+  </a>
+</p>
   
   
 
