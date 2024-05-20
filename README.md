@@ -15,7 +15,7 @@
 
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <div class="tenor-gif-embed" data-postid="13818761" data-share-method="host" data-aspect-ratio="0.717949" data-width="100%"><a href="https://tenor.com/view/kek-angry-code-matrix-gif-13818761">Kek Angry Sticker</a>from <a href="https://tenor.com/search/kek-stickers">Kek Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script> **About me**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
