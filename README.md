@@ -6,7 +6,7 @@
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Software+Developer;Web+Designer;Web+Developer" alt="Typing SVG" /></a>
     </div>
     <div align=center>
-        <a href="https://www.linkedin.com/in/sebas-sanchez-03446629a/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+        <a href="https://www.linkedin.com/in/sebazz/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
         <a href="https://www.instagram.com/_sebazs/"><img src="https://img.shields.io/badge/Instagram-494949?style=flat&logo=instagram" alt="Instagram" /></a>
     </div>
 
